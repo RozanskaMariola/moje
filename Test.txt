@@ -1,1 +1,2 @@
-Test dla gita
+Test dla gita
+Druga linia w test
