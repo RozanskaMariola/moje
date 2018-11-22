@@ -1,2 +1,3 @@
 Test dla gita
-Druga linia w test
+Druga linia w test
+Wszytko zakomitowane, teraz dodaje nowa linie
