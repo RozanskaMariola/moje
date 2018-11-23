@@ -1,1 +1,2 @@
 Dopisuje cos do testu i wycofam commit
+Nastepna linia
